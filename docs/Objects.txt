@@ -1,1 +1,26 @@
-rthjklkjhgvbbnhm
+Objekts-krūze
+Stāvoklis-tīra
+          netīra
+          ar šķidrumu
+          tukša
+          Uzvedība-var lietot, ja tīra un tukša
+                  nelietot, ja netīra vai jau ar šķidrumu
+                   izmazgāt, ja netīra 
+                   izliet šķidrumu un izmazgāt
+                 
+ Objekts-pulkstenis
+ Stāvoklis- ar uzlādētu bateriju 
+            ar tukšu bateriju
+            Uzvedība-ja baterija uzlādēta, rāda laiku
+             ja baterija tukša, nestrādā
+             
+  Objekts- norēķinu karte
+  Stāvoklis- ar derīguma termiņu
+             bez derīguma termiņa
+             fiziski labā stāvoklī
+             bojāta
+             piesaistīta kontam ar naudu
+             piesaistīta kontam bez atlikuma
+             Uzvedība-var samaksāt, ja derīguma termiņš, nav bojāta, kontā nauda
+                      nevar samaksāt, ja derīguma termiņš beidzies vai karte bojāta vai kontā nav naudas
+                   
