@@ -1,0 +1,103 @@
+Mainīgā nosaukums - tas ir ļoti svarīga lieta. Nosaukums jābūt saprotams cilvēkam, un arī jābūt saprotams ar kādu mērķi ir izveidots mainīgais, kādus datus glabās. Nosaukumam jābūt angļu valodā, tā kā programmas rakstās arī angļu valodā.
+
+                
+Izdomājiet nosaukumus priekš dotajiem mainīgiem:
+
+
+1. Kuģu daudzums ostā                                          int shipsInPort 
+
+
+2. Veselu skaitļu skaitītājs                                      long integers 
+
+
+3. Pirmais skaitlis                                                   long firstNumber 
+
+
+4. Atbilde uz jautājumu                                            boolean  isItRainyToday
+
+
+5. Izlases numurs                                                long randomNumber; int randomNumber 
+
+
+6. Izlases numuru generators                         long randomNumberGenerator; 
+                                                                        int randomNumberGenerator 
+
+
+
+7. Automašīnas krāsa                                   char carColor
+
+
+8. Automašīnas pārvietošanas ātrums     double carSpeed
+
+
+9. Lietotāja ievadītas skaitlis               long userEnteredNumber
+
+10. Lielākais skaitlis                             long highestNumber
+
+11. Mazākais skaitlis                             long lowestNumber   
+
+12. Skaitļu diapazona kreisā mala       long leftSideNumberRange
+
+13. Skaitļu diapazona labā mala        long rightSideNumberRange
+
+14. Lietotāja iedomātais skaitlis         long userImaginaryNumber
+
+15. Atbildes variants                        char answerOption   boolean answerOption
+
+16. Bankas konts                             char bankAccount
+
+17. Naudas daudzums uz konta    long accountBalance
+
+18. Bankas kredītkarte               char creditCard
+
+19. Velosipēda riteņu daudzums    byte numberOf Wheels
+
+Uzdevuma risinājums jābūt teksta dokumentā ar izdomātiem mainīgo nosaukumiem.
+Uzrādiet datu veidu dotajiem mainīgiem:
+
+
+1. Kuģu daudzums ostā                    int shipsInPort
+
+2. Veselu skaitļu skaitītājs                long integercounter
+
+
+3. Pirmais vesels skaitlis            vispar- byte firstInteger = 1; iespejams – long firstInteger
+
+
+4. Izlases vesels skaitlis                long randomInteger
+
+
+5. Izlases skaitlis ar peldošo punktu   float randomInteger
+
+
+6. Automašīnas pārvietošanas ātrums   double  carSpeed
+
+
+7. Lietotāja ievadītas vesels skaitlis   long userEnteredInteger
+
+
+
+8. Vislielākais vesels skaitlis   long greatestInteger
+
+
+9. Vismazākais skaitlis ar peldošo punktu    float smallestNumber
+
+
+10. Veselu skaitļu diapazona kreisā mala   long lefttSideOfIntegersRange
+
+
+11. Veselu skaitļu diapazona labā mala   long rightSideOfIntegersRange
+
+
+12. Lietotāja iedomātais vesels skaitlis    long userImaginaryInteger
+
+
+13. Naudas daudzums uz konta   long accountBalance
+
+
+14. Velosipēda riteņu daudzums     byte numberOf Wheels
+
+
+
+Uzdevuma risinājums jābūt teksta dokumentā ar izdomātiem mainīgo datu veidiem.
+
