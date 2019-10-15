@@ -4,7 +4,7 @@ import java.util.Random;
 
 public class RandomNumbersServiceTest {
     public static void main(String[] args) {
-        Random randomGererator = new Random();
+        Random randomGererator = new Random();  //typo "randomGererator"
 
         int  randomNumber1  = randomGererator.nextInt(101);
 
