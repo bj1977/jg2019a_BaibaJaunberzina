@@ -1,6 +1,7 @@
 package lv.jg.lesson3;
 
-
+//Ok
+//izmantojam "ctrl + alt + l" kombināciju
 public class CircleTest {
     public static void main(String[] args) {
         Circle circle = new Circle();

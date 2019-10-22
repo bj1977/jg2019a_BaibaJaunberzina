@@ -1,7 +1,10 @@
 package lv.jg.lesson3;
 
+//OK
 public class Car {
 
+    //visiem klases "laukiem" jeb "klases mainīgajiem" ir jābūt "private",
+    // jo objekta stāvoklim dŗīkst piekļūt tikai izmantojot tā metodes
     String manufacturer;
     String color;
     int year;

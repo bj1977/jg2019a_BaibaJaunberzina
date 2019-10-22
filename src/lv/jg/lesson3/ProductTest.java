@@ -1,5 +1,7 @@
 package lv.jg.lesson3;
 
+//ctrl + alt + l
+//Ok
 public class ProductTest {
     public static void main(String[] args) {
         Product product = new Product();
